@@ -10,3 +10,5 @@ spec:
             type: xlrelease.GateTask
           - name: Task 2
             type: xlrelease.GateTask
+          - name: Task 3
+            type: xlrelease.GateTask
