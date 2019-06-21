@@ -1,7 +1,7 @@
 apiVersion: xl-release/v1
 kind: Templates
 spec:
-  - template: VCS test
+  - template: VCS BUG
     description: This XL Release template performs a demo scenario update.
     phases:
       - phase: Phase 1
